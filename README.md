@@ -35,7 +35,7 @@ pip2 install futures
 
 pkg install git
 
-git clone https://github.com/Ykimg/PAKISTTAN/edit/main/README.md
+git clone https://github.com/Ykimg/PAKISTTAN
 
 cd PAKISTTAN
 
